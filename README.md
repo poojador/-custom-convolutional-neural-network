@@ -33,6 +33,7 @@ The data set contains the following diseases:
 
 
 Project Pipeline
+
 Data Reading/Data Understanding →Defining the path for train and test images 
 
 Dataset Creation→ Create train & validation dataset from the train directory with a batch size of 32. Also, make sure you resize your images to 180*180.
