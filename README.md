@@ -1,4 +1,4 @@
-# -custom-convolutional-neural-network
+# custom-convolutional-neural-network
 
 Problem Statement
 
