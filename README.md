@@ -34,7 +34,7 @@ The data set contains the following diseases:
 
 Project Pipeline
 
-.Data Reading/Data Understanding →Defining the path for train and test images 
+Data Reading/Data Understanding →Defining the path for train and test images 
 
 Dataset Creation→ Create train & validation dataset from the train directory with a batch size of 32. Also, make sure you resize your images to 180*180.
 
@@ -76,4 +76,6 @@ Choose an appropriate optimiser and loss function for model training
 Train the model for ~30 epochs
 
 Write your findings after the model fit, see if the issues are resolved or not?
+
+
 
